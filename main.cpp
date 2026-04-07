@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <iomanip>
+#include <string>
 using namespace std;
 
 class Date {
@@ -162,4 +164,3 @@ int main() {
     Test();
     return 0;
 }
-
